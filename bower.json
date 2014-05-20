@@ -1,0 +1,19 @@
+{
+  "name": "LABjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/derrickcurry/LABjs",
+  "authors": [
+    "Kyle Simpson",
+    "https://github.com/getify"
+  ],
+  "description": "Loading and Blocking JavaScript",
+  "main": "LAB.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
